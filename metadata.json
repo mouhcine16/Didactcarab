@@ -1,0 +1,6 @@
+{
+  "name": "موسوعة ديدكتيك اللغة العربية",
+  "description": "ديدكتيك اللغة العربية — الدورات الرسمية (2022–2025) والتوصيف وفق البرامج والتوجيهات التربوية الرسمية.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
